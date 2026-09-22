@@ -1,2 +1,3 @@
 # utec-shell
-Repositorio con los ejercicios de la shell de Linux del curso.
+
+Repositorio de ejercicios de shell scripting.
