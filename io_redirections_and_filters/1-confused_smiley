@@ -1,0 +1,2 @@
+#!/bin/bash
+printf '\x22(\xC3\x94o)\x27\n'
